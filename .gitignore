@@ -1,3 +1,6 @@
+checkpoint_test
+hf_cache
+
 # Byte-compiled / optimized / DLL files
 model/
 __pycache__/
